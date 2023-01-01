@@ -269,8 +269,8 @@ html {
     padding: var(--hero-heading-cta-btn-padding);
     border-radius: var(--hero-heading-cta-border-radius);
     box-shadow: 0 0 2px 1px #42296b;
-    color:#42296b;
     border: 1px solid #42296b;
+    color: #42296b;
     transition: all 0.3s;
 }
 
