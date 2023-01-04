@@ -334,7 +334,7 @@ html {
 
 .feature figure {
     border: var(--feature-figure-border);
-    border-top-color: var(var(--feature-figure-border-top-color));
+    border-top-color:var(--feature-figure-border-top-color);
     border-bottom-color: var(--feature-figure-border-bottom-color);
     overflow: hidden;
 }
